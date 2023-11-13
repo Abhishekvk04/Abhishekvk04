@@ -8,7 +8,7 @@
                           Web & App Developer | Open Source Enthusiast | Explorer | Python developer
 
 
-[[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Abhishek_vk_04)
+[[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Abhishek_vk_04)]
 [[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-v-k-574846248)]
 [![GitHub: Abhishekvk04](https://img.shields.io/github/followers/Abhishekvk04?label=follow&style=social)](https://github.com/Abhishekvk04)
 
