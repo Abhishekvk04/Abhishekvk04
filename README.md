@@ -36,9 +36,36 @@ Happy coding! 😊
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhishekvk04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abhishekvk04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekvk04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2 align="center">Statistics</h2>
+<div align="center">
+<a href="https://github.com/Abhishekvk04">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekvk04&theme=nightowl&hide_border=true&fire=DD2727" height="180em" alt="Abhishekvk04" />
+<br/>
+<!--   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishekvk04&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="Abhishekvk04" /> -->
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishekvk04&theme=2077" height="180em" alt="Abhishekvk04" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishekvk04&theme=2077" height="180em" alt="Abhishekvk04" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishekvk04&theme=2077" height="180em" alt="Abhishekvk04" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhishekvk04&theme=2077" height="180em" alt="Abhishekvk04" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishekvk04&theme=2077" height="180em" alt="Abhishekvk04" />
+</div>
+
+<details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
+
+---
+
+<summary>:trophy: Github Profile Trophy</summary>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhishekvk04&theme=monokai&row=1&no-frame=true&no-bg=true/">
+
+<summary>Github Stats</summary>
+
+[![tushar104's GitHub stats](https://stats.quine.sh/tushar104/github)](https://stats.quine.sh/tushar104/github)
+
+<summary>:trophy: @tushar_104's Holopin board</summary>
+  <br/>
+  <a href="https://holopin.io/@tushar_104">
+    <img src="https://holopin.me/tushar_104">
+  </a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abhishekvk04&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
