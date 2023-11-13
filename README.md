@@ -39,7 +39,7 @@ Happy coding! 😊
 <h2 align="center">Statistics</h2>
 <div align="center">
 <a href="https://github.com/Abhishekvk04">
-  <img src="https://streak-stats.demolab.com?user=Abhishekvk04&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dracula&preferLogin=false">    <img  alt="Abhishekvk04's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Abhishekvk04?cardType=github&theme=dracula&preferLogin=false" />  </a>
 <br/>
 <!--   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishekvk04&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="Abhishekvk04" /> -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishekvk04&theme=2077" height="180em" alt="Abhishekvk04" />
