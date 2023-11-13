@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png](https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7595.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699228800&semt=ais)" />
+  <img src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7595.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699228800&semt=ais" />
 </p>
 
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> , I am Abhishek!!</h1>
@@ -8,8 +8,8 @@
                           Web & App Developer | Open Source Enthusiast | Explorer | Python developer
 
 
-[[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Abhishek_vk_04)]
-[[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-v-k-574846248)]
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Abhishek_vk_04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-v-k-574846248)
 [![GitHub: Abhishekvk04](https://img.shields.io/github/followers/Abhishekvk04?label=follow&style=social)](https://github.com/Abhishekvk04)
 
 <h3> 👨🏻‍💻 &nbsp;About Me: </h3>
