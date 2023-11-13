@@ -39,7 +39,7 @@ Happy coding! 😊
 <h2 align="center">Statistics</h2>
 <div align="center">
 <a href="https://github.com/Abhishekvk04">
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abhishekvk04" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abhishekvk04&theme=highcontrast" alt="GitHub Streak" /></a>
 <br/>
 <!--   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishekvk04&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="Abhishekvk04" /> -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishekvk04&theme=2077" height="180em" alt="Abhishekvk04" />
