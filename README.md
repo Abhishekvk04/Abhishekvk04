@@ -1,4 +1,19 @@
-# 💫 About Me:
+<p align="center">
+  <img src="[https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png](https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7595.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699228800&semt=ais)" />
+</p>
+
+<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> , I am Abhishek!!</h1>
+
+                                             ✨ A B H I S H E K  V K ✨
+                          Web & App Developer | Open Source Enthusiast | Explorer | Python developer
+
+
+[[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Abhishek_vk_04)
+[[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-v-k-574846248)]
+[![GitHub: Abhishekvk04](https://img.shields.io/github/followers/Abhishekvk04?label=follow&style=social)](https://github.com/Abhishekvk04)
+
+<h3> 👨🏻‍💻 &nbsp;About Me: </h3>
+
 👋 Hello! I'm Abhishek , a frontend and python developer . 
 I am interested in Cloud , AI & ML. 
 I like playing with some latest AI tool and also like to solve real world problems which might bring a huge impact.<br> 
@@ -28,11 +43,6 @@ Happy coding! 😊
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abhishekvk04&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Abhishekvk04&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
