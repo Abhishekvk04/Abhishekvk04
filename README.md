@@ -64,7 +64,7 @@ Happy coding! 😊
 <summary>:trophy: Abhishek's Holopin board</summary>
   <br/>
   <a href="https://holopin.io/@abhishekvk04">
-    <img src="https://holopin.me/@abhishekvk04">
+    <img src="[https://holopin.me/@abhishekvk04](https://www.holopin.io/@abhishekvk04?verified=true#badges)">
   </a>
 
 ## 🏆 GitHub Trophies
