@@ -59,13 +59,8 @@ Happy coding! 😊
 
 <summary>Github Stats</summary>
 
-[![tushar104's GitHub stats](https://stats.quine.sh/Abhishekvk04/github)](https://stats.quine.sh/Abhishekvk04/github)
+[![Abhishek's GitHub stats](https://stats.quine.sh/Abhishekvk04/github)](https://stats.quine.sh/Abhishekvk04/github)
 
-<summary>:trophy: Abhishek's Holopin board</summary>
-  <br/>
-  <a href="[https://holopin.io/@abhishekvk04](https://www.holopin.io/@abhishekvk04?verified=true#badges)">
-    <img src="https://holopin.me/@abhishekvk04">
-  </a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abhishekvk04&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
