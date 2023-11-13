@@ -39,7 +39,7 @@ Happy coding! 😊
 <h2 align="center">Statistics</h2>
 <div align="center">
 <a href="https://github.com/Abhishekvk04">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekvk04&theme=nightowl&hide_border=true&fire=DD2727" height="180em" alt="Abhishekvk04" />
+  <img src="https://streak-stats.demolab.com?user=Abhishekvk04&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 <br/>
 <!--   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishekvk04&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="Abhishekvk04" /> -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishekvk04&theme=2077" height="180em" alt="Abhishekvk04" />
@@ -59,12 +59,12 @@ Happy coding! 😊
 
 <summary>Github Stats</summary>
 
-[![tushar104's GitHub stats](https://stats.quine.sh/tushar104/github)](https://stats.quine.sh/tushar104/github)
+[![tushar104's GitHub stats](https://stats.quine.sh/Abhishekvk04/github)](https://stats.quine.sh/Abhishekvk04/github)
 
-<summary>:trophy: @tushar_104's Holopin board</summary>
+<summary>:trophy: Abhishek's Holopin board</summary>
   <br/>
-  <a href="https://holopin.io/@tushar_104">
-    <img src="https://holopin.me/tushar_104">
+  <a href="https://holopin.io/@abhishekvk04">
+    <img src="https://holopin.me/@abhishekvk04">
   </a>
 
 ## 🏆 GitHub Trophies
