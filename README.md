@@ -5,7 +5,7 @@
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> , I am Abhishek!!</h1>
 
                                              ✨ A B H I S H E K  V K ✨
-                          Web & App Developer | Open Source Enthusiast | Explorer | Python developer
+                          ML developer | Open Source Enthusiast | Explorer | Python developer
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Abhishek_vk_04)
