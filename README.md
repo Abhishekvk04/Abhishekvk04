@@ -11,11 +11,12 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Abhishek_vk_04)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-v-k-574846248)
 [![GitHub: Abhishekvk04](https://img.shields.io/github/followers/Abhishekvk04?label=follow&style=social)](https://github.com/Abhishekvk04)
+My Other Github Account is: [![GitHub: AstralCoder581](https://img.shields.io/github/followers/AstralCoder581?label=follow&style=social)](https://github.com/AstralCoder581)
 
 <h3> 👨🏻‍💻 &nbsp;About Me: </h3>
 
-👋 Hello! I'm Abhishek , a frontend and python developer . 
-I am interested in Cloud , AI & ML. 
+👋 Hello! I'm Abhishek , a full stack developer. 
+I am interested in Genai, Machine Learning. 
 I like playing with some latest AI tool and also like to solve real world problems which might bring a huge impact.<br> 
 I am a enthusiastic learner. I aptly describe my attitude towards the challenges, responsibilities and opportunities confronting me. 
 I'm ambitious person with a passion to work for my goals. I'm on a journey to explore and contribute to the ever-evolving world of technology.<br><br>
