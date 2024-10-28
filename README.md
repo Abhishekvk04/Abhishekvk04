@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-v-k-574846248)
 [![GitHub: Abhishekvk04](https://img.shields.io/github/followers/Abhishekvk04?label=follow&style=social)](https://github.com/Abhishekvk04) &nbsp;
 ### Check out my Other Github Account is: [![GitHub: AstralCoder581](https://img.shields.io/github/followers/AstralCoder581?label=follow&style=social)](https://github.com/AstralCoder581)
-### Check out my personal website [Abhishek V K](https://vkabhishek.netlify.app/)
+### Check out my personal website [Abhishek V K](https://vkabhishek.vercel.app/)
 
 <h3> 👨🏻‍💻 &nbsp;About Me: </h3>
 
