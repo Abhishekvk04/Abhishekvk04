@@ -40,18 +40,22 @@ Happy coding! 😊
 # 📊 GitHub Stats:
 <h2 align="center">Statistics</h2>
 <div align="center">
-<a href="https://github.com/Abhishekvk04">
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abhishekvk04&theme=highcontrast" alt="GitHub Streak" /></a>
-<br/>
-<!--   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishekvk04&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="Abhishekvk04" /> -->
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishekvk04&theme=2077" height="180em" alt="Abhishekvk04" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishekvk04&theme=2077" height="180em" alt="Abhishekvk04" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishekvk04&theme=2077" height="180em" alt="Abhishekvk04" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhishekvk04&theme=2077" height="180em" alt="Abhishekvk04" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishekvk04&theme=2077" height="180em" alt="Abhishekvk04" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=Abhishekvk04&theme=aura" alt="GitHub Streak" />
+  </a>
+  <br/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishekvk04&theme=2077" height="180em" alt="GitHub Stats" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishekvk04&theme=2077" height="180em" alt="Most Commit Language" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishekvk04&theme=2077" height="180em" alt="Repos Per Language" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhishekvk04&theme=2077" height="180em" alt="Productive Time" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishekvk04&theme=2077" height="180em" alt="Profile Details" />
 </div>
 
-<details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
+<details> 
+  <summary align="center">Note:</summary>
+  <b>Most Used Languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</b>
+</details>
+
 
 ---
 
@@ -69,4 +73,14 @@ Happy coding! 😊
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Abhishekvk04&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhishekvk04&color=blueviolet" alt="Profile views">
+</p>
+
+---
+
+<p align="center">
+  <i>Let's connect and Make the World a better place!</i>
+</p>
 
