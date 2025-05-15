@@ -59,15 +59,6 @@ Happy coding! 😊
 
 ---
 
-<summary>:trophy: Github Profile Trophy</summary>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhishekvk04&theme=monokai&row=1&no-frame=true&no-bg=true/">
-
-<summary>Github Stats</summary>
-
-[![Abhishek's GitHub stats](https://stats.quine.sh/Abhishekvk04/github)](https://stats.quine.sh/Abhishekvk04/github)
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abhishekvk04&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
