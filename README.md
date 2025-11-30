@@ -109,9 +109,14 @@ I love experimenting with new AI tools, contributing to open source, and buildin
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Abhishekvk04&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repositories  
-![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Abhishekvk04&limit=5&theme=dark&combine_all_yearly_contributions=true)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/vkabhishek04?theme=dark&ext=heatmap)](https://leetcode.com/u/vkabhishek04/)
 
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Abhishekvk04&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats"/>
+  <br/><br/>
+  <a href="https://leetcode.com/u/vkabhishek04/">
+    <img src="https://leetcard.jacoblin.cool/vkabhishek04?theme=dark&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhishekvk04&color=blueviolet" alt="Profile Views"/>
